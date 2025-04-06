@@ -142,6 +142,7 @@ Validate the Design :
 Temperature Plot : 
 ![image](https://github.com/user-attachments/assets/ec34b993-870e-4272-8351-5d3b94524958)
 
+![image](https://github.com/user-attachments/assets/0fe443e4-4b79-40c7-8870-5f24a17854be)
 
 
 # Module 4 
