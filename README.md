@@ -93,6 +93,94 @@ The below image shows the steps from Bump formation on Si to Packaged.
 ![image](https://github.com/user-attachments/assets/5b64d164-2d04-4fed-87a6-a6d39c0b069a)
 
 
+# Module 3 : Lab Session
+
+Ansys Tool IcePack Design : 
+
+![image](https://github.com/user-attachments/assets/6fc957bb-8c68-43f7-995d-b1850ecda768)
+
+The Flipchip BGA Package Tool built in selection :
+![image](https://github.com/user-attachments/assets/abced30c-bdf9-44cc-a7f7-0efcf1886cbf)
+
+Dimension : 
+![image](https://github.com/user-attachments/assets/ff218744-6127-4a46-b3f6-4c6244e6b221)
+
+Die Dimension :
+![image](https://github.com/user-attachments/assets/61eccf39-c088-4178-901e-f31c3331592d)
+
+Substrate Option :
+![image](https://github.com/user-attachments/assets/894c95b8-dafc-452b-918c-c5d252a64424)
+
+Solder Option : 
+![image](https://github.com/user-attachments/assets/106c26d4-08f9-40fe-bca8-1ec1b3b24dee)
+
+The 3D Model gets created automatic : 
+If we observe on left side we have Model option. In this Solids menu we have : 
+1. Cu-Pure
+2. FlipChip BGA1 Substrate material
+3. FlipChip BGA1 Underfill material
+4. FlipChip BGA1 via material
+5. Si-Typical
+6. Solder-pb50_sn50
+
+![image](https://github.com/user-attachments/assets/ef62eb3b-8cee-46c2-8a44-eb2affd30d06)
+
+The BGA1 ball :
+![image](https://github.com/user-attachments/assets/4504eb67-776d-46f3-bdba-592f7bfbb5bb)
+
+The Sandwich of Mold, die, substrate and BGA pins.
+![image](https://github.com/user-attachments/assets/ad28cd7d-f75e-4b70-b8d3-cf40ba742420)
+
+The Mesh Generation :
+![image](https://github.com/user-attachments/assets/346f44f2-114b-4dcb-845a-1d87fc4c1291)
+
+Validate the Design :
+![image](https://github.com/user-attachments/assets/d44033db-efed-448a-9196-f004fa923788)
+
+![image](https://github.com/user-attachments/assets/295a876f-b48d-499f-967e-91f17e453506)
+
+Temperature Plot : 
+![image](https://github.com/user-attachments/assets/ec34b993-870e-4272-8351-5d3b94524958)
+
+
+
+# Module 4 
+
+## Package Testing
+The OSAT facility does the Testing at initial stage and then at the end of Package they do Electrical, burn-in and reliability chamber tests.
+The Main Testing steps are : 
+1. AOST        : Assembly Open and Short Test. If there are any opens or short happened during the Package which will lead to errornous output.
+2. Burn-in     : Apply thermal and voltage stress to ensure early-life reliability. The Industry Grades like Automotive, Industrial and Commerical with varing different temperatures and voltages for each application. 
+3. Final Test  : Cold and Hot test for validating functional, parametric and reliability specs across temperature. At the end few testcase scenarios are evalutaed. 
+
+![image](https://github.com/user-attachments/assets/6c1ab656-bdac-4fdb-a36c-88feacf93cbb)
+
+![image](https://github.com/user-attachments/assets/e139a59a-721c-48c0-808c-9cc2260b67f9)
+
+### AOST - Functionality
+
+![image](https://github.com/user-attachments/assets/60814c07-502d-4ab1-8393-1e3ea9b37889)
+
+### Burn-in Test
+
+![image](https://github.com/user-attachments/assets/c6358c7b-829b-458a-a2a3-896e85b4e913)
+
+### Final Test
+
+![image](https://github.com/user-attachments/assets/53371d7c-55e4-4f02-8ba3-73bf0f1d8cc7)
+
+### Summary: ATE and Test categories
+
+![image](https://github.com/user-attachments/assets/7e71209b-5f0f-4b59-81f3-c38f1539600d)
+
+
+
+
+
+
+
+
+
 
 
 
